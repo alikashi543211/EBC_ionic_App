@@ -1,0 +1,7 @@
+{
+  "name": "elbow-beach-cycle",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
